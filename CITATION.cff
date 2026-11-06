@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: "OBD-II, Euro 6d UDS & 24V SAE J1939 Diagnostic Trouble Code (DTC) Engineering Dictionary + 351 ECU Subsystem Fault Matrices (v1.0.44)"
+title: "obd2-dtc-fault-code-dictionary — DaVinci Deluxe Cloud Edition (v1.0.44)"
 version: "1.0.44"
 date-released: "2026-11-06"
 url: "https://www.davincideluxe.fr/dtc"
